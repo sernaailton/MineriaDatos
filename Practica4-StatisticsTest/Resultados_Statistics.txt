@@ -1,0 +1,16 @@
+El análisis estadístico realizado indica que el tipo de lanzamiento tiene un impacto significativo en varias variables del desempeño del pitcher.
+
+Velocidad promedio (avg_speed):
+Tanto ANOVA como Kruskal-Wallis muestran diferencias altamente significativas entre los tipos de lanzamientos. Esto significa que la velocidad varía de manera consistente según el lanzamiento, siendo la variable más sensible a estas diferencias. Las pruebas t confirman que casi todos los pares de lanzamientos difieren significativamente en velocidad, especialmente entre lanzamientos muy rápidos (4-Seam Fastball) y los más lentos (Eephus, Slow Curve).
+
+Promedio de strikes (avg_strikes):
+También se observan diferencias significativas, aunque menos extremas que en la velocidad. Esto indica que el tipo de lanzamiento influye en la cantidad de strikes logrados, aunque no todos los pares de lanzamientos presentan diferencias significativas.
+
+Promedio de bolas (avg_balls) y promedio de bateo (avg_batting):
+Las diferencias se presentan principalmente en lanzamientos extremos o poco frecuentes. Para la mayoría de los lanzamientos comunes, los valores son similares, indicando que estas variables son menos sensibles al tipo de lanzamiento.
+
+Consistencia entre pruebas:
+Los resultados de ANOVA y Kruskal-Wallis coinciden en señalar diferencias significativas en las variables más relevantes, mientras que las pruebas t permiten identificar específicamente qué combinaciones de lanzamientos muestran diferencias.
+
+En resumen:
+El tipo de lanzamiento impacta fuertemente la velocidad del lanzamiento y, en menor medida, los strikes, balls y promedio de bateo. Los lanzamientos poco frecuentes muestran diferencias más claras y consistentes, mientras que los lanzamientos comunes tienden a comportarse de manera similar. Estas diferencias son estadísticamente significativas en la mayoría de los casos, lo que refuerza la importancia del tipo de lanzamiento en el desempeño del pitcher.

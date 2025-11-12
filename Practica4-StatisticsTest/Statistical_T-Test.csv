@@ -1,0 +1,421 @@
+variable,test_type,group1,group2,statistic,p_value,significant
+avg_speed,T-test,4-Seam Fastball,Changeup,24.959308171741384,5.331794573159319e-23,Yes
+avg_speed,T-test,4-Seam Fastball,Curveball,44.01080947294249,6.915362596199826e-31,Yes
+avg_speed,T-test,4-Seam Fastball,Cutter,12.063866644283555,7.768740013215892e-14,Yes
+avg_speed,T-test,4-Seam Fastball,Knuckle Curve,35.65461352709901,6.261161047153513e-28,Yes
+avg_speed,T-test,4-Seam Fastball,Sinker,2.548488022075056,0.01550504888219398,Yes
+avg_speed,T-test,4-Seam Fastball,Slider,24.097662703449593,5.923230424299702e-23,Yes
+avg_speed,T-test,4-Seam Fastball,Slurve,24.71969865132168,1.6703498729000068e-21,Yes
+avg_speed,T-test,4-Seam Fastball,Split-Finger,19.586705732903862,2.2143606355829403e-19,Yes
+avg_speed,T-test,4-Seam Fastball,Sweeper,35.890214716824566,5.06488388006721e-28,Yes
+avg_speed,T-test,4-Seam Fastball,Forkball,27.795522667208978,9.144224383937219e-20,Yes
+avg_speed,T-test,4-Seam Fastball,Other,31.04995778393233,1.1578243738350594e-22,Yes
+avg_speed,T-test,4-Seam Fastball,Slow Curve,36.97249634759432,6.894578374734912e-20,Yes
+avg_speed,T-test,4-Seam Fastball,Eephus,66.92083055180893,6.4218523782262835e-27,Yes
+avg_speed,T-test,4-Seam Fastball,Pitch Out,9.233887373130301,4.914768144732037e-08,Yes
+avg_speed,T-test,Changeup,Curveball,20.972078686834312,2.8983940283448626e-20,Yes
+avg_speed,T-test,Changeup,Cutter,-10.776960176366776,2.405892705910344e-12,Yes
+avg_speed,T-test,Changeup,Knuckle Curve,10.605840498381468,5.273057937774324e-12,Yes
+avg_speed,T-test,Changeup,Sinker,-32.16492352036274,1.7087327754907612e-26,Yes
+avg_speed,T-test,Changeup,Slider,-0.06700522985683464,0.9469818646055594,No
+avg_speed,T-test,Changeup,Slurve,9.268753327716968,3.590328635438598e-10,Yes
+avg_speed,T-test,Changeup,Split-Finger,-1.5260166359021068,0.1371448077917638,No
+avg_speed,T-test,Changeup,Sweeper,11.156439010613814,1.459162022773596e-12,Yes
+avg_speed,T-test,Changeup,Forkball,8.834992998456583,7.495456683187908e-09,Yes
+avg_speed,T-test,Changeup,Other,22.255324549192057,1.875410441899085e-18,Yes
+avg_speed,T-test,Changeup,Slow Curve,28.487823719185798,4.737483436432867e-17,Yes
+avg_speed,T-test,Changeup,Eephus,58.86007645147473,8.44049642619272e-25,Yes
+avg_speed,T-test,Changeup,Pitch Out,2.3319281550856106,0.033096885332032394,Yes
+avg_speed,T-test,Curveball,Cutter,-28.482287531830348,8.247734029216319e-25,Yes
+avg_speed,T-test,Curveball,Knuckle Curve,-11.875583188465994,2.8840416113370623e-13,Yes
+avg_speed,T-test,Curveball,Sinker,-60.95077204939934,1.6943264371854074e-35,Yes
+avg_speed,T-test,Curveball,Slider,-19.81190728329503,6.828513445878939e-20,Yes
+avg_speed,T-test,Curveball,Slurve,-2.4577138616345167,0.02019856222844124,Yes
+avg_speed,T-test,Curveball,Split-Finger,-18.227402224717395,4.0183372011868814e-18,Yes
+avg_speed,T-test,Curveball,Sweeper,-10.928890743555149,2.469884273521063e-12,Yes
+avg_speed,T-test,Curveball,Forkball,-10.470743000221718,3.1869888029974494e-10,Yes
+avg_speed,T-test,Curveball,Other,16.20098835605179,4.193437059188054e-15,Yes
+avg_speed,T-test,Curveball,Slow Curve,19.980241172324103,3.242504427555707e-14,Yes
+avg_speed,T-test,Curveball,Eephus,51.39556072288917,1.428851321129214e-23,Yes
+avg_speed,T-test,Curveball,Pitch Out,-4.777109939214162,0.00020571167986347167,Yes
+avg_speed,T-test,Cutter,Knuckle Curve,20.055783969840103,4.699469298526512e-20,Yes
+avg_speed,T-test,Cutter,Sinker,-12.738016717532622,1.69408656837851e-14,Yes
+avg_speed,T-test,Cutter,Slider,10.426514904909784,3.960065263226147e-12,Yes
+avg_speed,T-test,Cutter,Slurve,15.684406090663844,5.324462963808959e-16,Yes
+avg_speed,T-test,Cutter,Split-Finger,7.806451965792364,6.641201327100647e-09,Yes
+avg_speed,T-test,Cutter,Sweeper,20.44734848996852,2.6000905816911068e-20,Yes
+avg_speed,T-test,Cutter,Forkball,15.354930982520829,6.517259633638469e-14,Yes
+avg_speed,T-test,Cutter,Other,26.038285670441923,1.1562313837550947e-20,Yes
+avg_speed,T-test,Cutter,Slow Curve,29.259562565835058,6.842378976146176e-18,Yes
+avg_speed,T-test,Cutter,Eephus,58.92711337163304,1.0389541894362878e-25,Yes
+avg_speed,T-test,Cutter,Pitch Out,4.824765492495395,0.00015835948827780096,Yes
+avg_speed,T-test,Knuckle Curve,Sinker,-50.44513430315888,8.168537162176982e-33,Yes
+avg_speed,T-test,Knuckle Curve,Slider,-9.984090957423708,1.6848004604337577e-11,Yes
+avg_speed,T-test,Knuckle Curve,Slurve,3.7288885579081756,0.0008308266925884488,Yes
+avg_speed,T-test,Knuckle Curve,Split-Finger,-9.91966550033538,3.884247487704345e-11,Yes
+avg_speed,T-test,Knuckle Curve,Sweeper,0.786013765287921,0.43764136275663457,No
+avg_speed,T-test,Knuckle Curve,Forkball,-0.14092381034323148,0.8891571180413007,No
+avg_speed,T-test,Knuckle Curve,Other,19.499891021490928,4.830418975408216e-17,Yes
+avg_speed,T-test,Knuckle Curve,Slow Curve,26.001818439559734,2.5765140184261687e-16,Yes
+avg_speed,T-test,Knuckle Curve,Eephus,57.16176887628921,1.5552559817660486e-24,Yes
+avg_speed,T-test,Knuckle Curve,Pitch Out,-1.1030379938233115,0.28632550941392765,No
+avg_speed,T-test,Sinker,Slider,29.39161844669293,9.363801060987567e-26,Yes
+avg_speed,T-test,Sinker,Slurve,26.854971321028522,1.543918966379718e-22,Yes
+avg_speed,T-test,Sinker,Split-Finger,22.464673554715684,3.678817482855861e-21,Yes
+avg_speed,T-test,Sinker,Sweeper,50.16069838310796,9.821304456229249e-33,Yes
+avg_speed,T-test,Sinker,Forkball,51.750047830068205,3.901937225689316e-26,Yes
+avg_speed,T-test,Sinker,Other,31.842151970285055,5.967719306264572e-23,Yes
+avg_speed,T-test,Sinker,Slow Curve,49.86474420090361,1.85018477947849e-22,Yes
+avg_speed,T-test,Sinker,Eephus,79.16677455061539,1.616059440747631e-28,Yes
+avg_speed,T-test,Sinker,Pitch Out,18.544209628701225,1.0252737201969708e-12,Yes
+avg_speed,T-test,Slider,Slurve,9.25087966392912,2.7165807521113023e-10,Yes
+avg_speed,T-test,Slider,Split-Finger,-1.4268014402021856,0.1633221592046113,No
+avg_speed,T-test,Slider,Sweeper,10.525527500747902,4.420827738650762e-12,Yes
+avg_speed,T-test,Slider,Forkball,7.947825886804465,3.5428207140406075e-08,Yes
+avg_speed,T-test,Slider,Other,22.654289598175406,4.229880753879898e-19,Yes
+avg_speed,T-test,Slider,Slow Curve,27.17620359050292,2.89566427514201e-17,Yes
+avg_speed,T-test,Slider,Eephus,57.96006050116571,1.4918530581974192e-25,Yes
+avg_speed,T-test,Slider,Pitch Out,2.0843065020462075,0.052529446011947645,No
+avg_speed,T-test,Slurve,Split-Finger,-9.230142297997178,5.472057176026938e-10,Yes
+avg_speed,T-test,Slurve,Sweeper,-3.3110650539414985,0.0024946027416328353,Yes
+avg_speed,T-test,Slurve,Forkball,-2.7632209566893593,0.011992146798729446,Yes
+avg_speed,T-test,Slurve,Other,14.275026152891103,6.428852614049888e-13,Yes
+avg_speed,T-test,Slurve,Slow Curve,12.383707951659995,1.3023064792394917e-09,Yes
+avg_speed,T-test,Slurve,Eephus,35.27413680842048,4.551753753368709e-18,Yes
+avg_speed,T-test,Slurve,Pitch Out,-1.362561365523973,0.19616032427658756,No
+avg_speed,T-test,Split-Finger,Sweeper,10.380581393759876,1.3035611115362216e-11,Yes
+avg_speed,T-test,Split-Finger,Forkball,7.582053168285286,1.4217677595924924e-07,Yes
+avg_speed,T-test,Split-Finger,Other,21.42682322252701,1.3235291199346444e-17,Yes
+avg_speed,T-test,Split-Finger,Slow Curve,23.788720262378,4.729017195834469e-15,Yes
+avg_speed,T-test,Split-Finger,Eephus,51.83324906735509,8.577958440305961e-23,Yes
+avg_speed,T-test,Split-Finger,Pitch Out,2.0795849397344357,0.05512953151434353,No
+avg_speed,T-test,Sweeper,Forkball,-0.8365264845046857,0.41146617798278207,No
+avg_speed,T-test,Sweeper,Other,19.25664549861502,6.559528234314416e-17,Yes
+avg_speed,T-test,Sweeper,Slow Curve,25.301899525179515,4.2674971375396283e-16,Yes
+avg_speed,T-test,Sweeper,Eephus,56.43169940616757,2.0338067657607686e-24,Yes
+avg_speed,T-test,Sweeper,Pitch Out,-1.3206000474636879,0.20521388847543667,No
+avg_speed,T-test,Forkball,Other,13.46408247832696,1.6966538798169986e-10,Yes
+avg_speed,T-test,Forkball,Slow Curve,21.03171901265581,1.3117397640976578e-09,Yes
+avg_speed,T-test,Forkball,Eephus,41.900209384795474,2.214737743353218e-14,Yes
+avg_speed,T-test,Forkball,Pitch Out,-1.888685034032474,0.10087015005595071,No
+avg_speed,T-test,Other,Slow Curve,-1.603026028825605,0.13293776032981244,No
+avg_speed,T-test,Other,Eephus,10.759934910177329,1.8905101879320267e-08,Yes
+avg_speed,T-test,Other,Pitch Out,-4.800770479664319,0.0007227939403784113,Yes
+avg_speed,T-test,Slow Curve,Eephus,14.539252244125029,4.906668957178726e-07,Yes
+avg_speed,T-test,Slow Curve,Pitch Out,-6.884545197366311,0.006277752631917166,Yes
+avg_speed,T-test,Eephus,Pitch Out,-14.021068044431708,3.319064844951141e-05,Yes
+avg_strikes,T-test,4-Seam Fastball,Changeup,1.5066598338357866,0.14141164429593364,No
+avg_strikes,T-test,4-Seam Fastball,Curveball,2.6253190163677513,0.013017803864933723,Yes
+avg_strikes,T-test,4-Seam Fastball,Cutter,6.935091980858816,5.403329705868207e-08,Yes
+avg_strikes,T-test,4-Seam Fastball,Knuckle Curve,2.5757588042699306,0.01466826940504634,Yes
+avg_strikes,T-test,4-Seam Fastball,Sinker,5.9516571914619725,9.950763880028074e-07,Yes
+avg_strikes,T-test,4-Seam Fastball,Slider,0.5770107744479543,0.5677333865678329,No
+avg_strikes,T-test,4-Seam Fastball,Slurve,2.5238707149686053,0.017135629342668744,Yes
+avg_strikes,T-test,4-Seam Fastball,Split-Finger,0.5913130953114304,0.5584649255289442,No
+avg_strikes,T-test,4-Seam Fastball,Sweeper,1.413293558505122,0.16693322849957734,No
+avg_strikes,T-test,4-Seam Fastball,Forkball,-1.1734576064712665,0.2521268728385156,No
+avg_strikes,T-test,4-Seam Fastball,Other,5.923972664877857,2.5855552574451383e-06,Yes
+avg_strikes,T-test,4-Seam Fastball,Slow Curve,1.813500538651053,0.08478983677121936,No
+avg_strikes,T-test,4-Seam Fastball,Eephus,14.710827640602519,7.262868117033621e-13,Yes
+avg_strikes,T-test,4-Seam Fastball,Pitch Out,2.4483936330827,0.025496352283903415,Yes
+avg_strikes,T-test,Changeup,Curveball,1.6326645315481043,0.11234260017569171,No
+avg_strikes,T-test,Changeup,Cutter,6.779154963428527,9.929695211733181e-08,Yes
+avg_strikes,T-test,Changeup,Knuckle Curve,1.5473637995922669,0.13160955355844622,No
+avg_strikes,T-test,Changeup,Sinker,6.1558051512097895,6.103881193552586e-07,Yes
+avg_strikes,T-test,Changeup,Slider,-0.43983556337433866,0.6629234476403927,No
+avg_strikes,T-test,Changeup,Slurve,1.9088223465818364,0.06622615404837662,No
+avg_strikes,T-test,Changeup,Split-Finger,-0.6656004870398206,0.5105890460415412,No
+avg_strikes,T-test,Changeup,Sweeper,0.32345262839892003,0.7484568885754688,No
+avg_strikes,T-test,Changeup,Forkball,-2.2008754852395294,0.03805113112940349,Yes
+avg_strikes,T-test,Changeup,Other,5.561783225779317,7.680523740667839e-06,Yes
+avg_strikes,T-test,Changeup,Slow Curve,1.4741712726230587,0.15681222305382203,No
+avg_strikes,T-test,Changeup,Eephus,23.37218535083741,1.6282757980214258e-16,Yes
+avg_strikes,T-test,Changeup,Pitch Out,3.475023619434849,0.0031240648299756635,Yes
+avg_strikes,T-test,Curveball,Cutter,4.5466053127362,6.970126745083462e-05,Yes
+avg_strikes,T-test,Curveball,Knuckle Curve,-0.15902493172221077,0.8746486678902202,No
+avg_strikes,T-test,Curveball,Sinker,3.0148405274069936,0.00491577997171128,Yes
+avg_strikes,T-test,Curveball,Slider,-1.4061042508191188,0.1690399566646421,No
+avg_strikes,T-test,Curveball,Slurve,1.1273372455434132,0.26884147033648514,No
+avg_strikes,T-test,Curveball,Split-Finger,-1.7868332439407966,0.08374767218733575,No
+avg_strikes,T-test,Curveball,Sweeper,-0.8840795824695867,0.3832476690308574,No
+avg_strikes,T-test,Curveball,Forkball,-2.747487005036889,0.011469774387014218,Yes
+avg_strikes,T-test,Curveball,Other,4.5617623482942555,0.00010688366412568648,Yes
+avg_strikes,T-test,Curveball,Slow Curve,0.8756869610397545,0.3921366095397505,No
+avg_strikes,T-test,Curveball,Eephus,14.095695607743652,3.5467206492846374e-12,Yes
+avg_strikes,T-test,Curveball,Pitch Out,1.805964870555285,0.08977054010628475,No
+avg_strikes,T-test,Cutter,Knuckle Curve,-4.875928853473101,2.6575959849164576e-05,Yes
+avg_strikes,T-test,Cutter,Sinker,-2.6423825524811853,0.012355162310499062,Yes
+avg_strikes,T-test,Cutter,Slider,-4.80606125878824,3.0604364697109026e-05,Yes
+avg_strikes,T-test,Cutter,Slurve,-1.2663259705873522,0.21514117048170986,No
+avg_strikes,T-test,Cutter,Split-Finger,-5.760079620762074,2.176374849503092e-06,Yes
+avg_strikes,T-test,Cutter,Sweeper,-4.8029445370782256,3.292992589485411e-05,Yes
+avg_strikes,T-test,Cutter,Forkball,-5.3172441301912965,1.8651662339878593e-05,Yes
+avg_strikes,T-test,Cutter,Other,2.2196459058656828,0.035031921357317725,Yes
+avg_strikes,T-test,Cutter,Slow Curve,-0.7671398788127449,0.4519600227440552,No
+avg_strikes,T-test,Cutter,Eephus,9.20818926504063,5.29764087378099e-09,Yes
+avg_strikes,T-test,Cutter,Pitch Out,0.20677510446956007,0.8386418914551677,No
+avg_strikes,T-test,Knuckle Curve,Sinker,3.417436810750451,0.0016962297214858095,Yes
+avg_strikes,T-test,Knuckle Curve,Slider,-1.323920489986846,0.1946274572724976,No
+avg_strikes,T-test,Knuckle Curve,Slurve,1.2201370416962607,0.23224251126991438,No
+avg_strikes,T-test,Knuckle Curve,Split-Finger,-1.7139789519707924,0.09651652481500393,No
+avg_strikes,T-test,Knuckle Curve,Sweeper,-0.7789487922237733,0.4417324996998139,No
+avg_strikes,T-test,Knuckle Curve,Forkball,-2.743353015430104,0.011578505230934647,Yes
+avg_strikes,T-test,Knuckle Curve,Other,4.7147300388393205,7.136872412931837e-05,Yes
+avg_strikes,T-test,Knuckle Curve,Slow Curve,0.9505389971594792,0.35377416017909613,No
+avg_strikes,T-test,Knuckle Curve,Eephus,15.605458085823216,5.004019436129169e-13,Yes
+avg_strikes,T-test,Knuckle Curve,Pitch Out,2.0373458081730216,0.05850713320944289,No
+avg_strikes,T-test,Sinker,Slider,-3.5489007173571667,0.0011543415212656783,Yes
+avg_strikes,T-test,Sinker,Slurve,-0.11173477871502824,0.9117779571069922,No
+avg_strikes,T-test,Sinker,Split-Finger,-4.653845451265708,5.4192846789060664e-05,Yes
+avg_strikes,T-test,Sinker,Sweeper,-3.4524796765708303,0.0015425633511162128,Yes
+avg_strikes,T-test,Sinker,Forkball,-4.786583800712986,7.145155248417007e-05,Yes
+avg_strikes,T-test,Sinker,Other,3.6744109758125933,0.0010403078567780206,Yes
+avg_strikes,T-test,Sinker,Slow Curve,0.02815545366857906,0.9778172226293256,No
+avg_strikes,T-test,Sinker,Eephus,19.88104562382878,1.5093037055410529e-15,Yes
+avg_strikes,T-test,Sinker,Pitch Out,1.635264307582731,0.12037284952238331,No
+avg_strikes,T-test,Slider,Slurve,1.8899660740991302,0.06845927312297359,No
+avg_strikes,T-test,Slider,Split-Finger,-0.06975447062050194,0.9448231788162585,No
+avg_strikes,T-test,Slider,Sweeper,0.5984016754854524,0.5536573684071668,No
+avg_strikes,T-test,Slider,Forkball,-1.3037522765445912,0.2046856850176866,No
+avg_strikes,T-test,Slider,Other,4.823011620690001,4.900881571532776e-05,Yes
+avg_strikes,T-test,Slider,Slow Curve,1.2866969615545463,0.21289457873889064,No
+avg_strikes,T-test,Slider,Eephus,9.286497870424379,4.56091319487313e-09,Yes
+avg_strikes,T-test,Slider,Pitch Out,1.452524241784235,0.1645640856718783,No
+avg_strikes,T-test,Slurve,Split-Finger,-2.0199612642245675,0.05304900992002593,No
+avg_strikes,T-test,Slurve,Sweeper,-1.561090027264723,0.12935039246413144,No
+avg_strikes,T-test,Slurve,Forkball,-2.2696693732267406,0.03444083174044228,Yes
+avg_strikes,T-test,Slurve,Other,2.2890641725273486,0.03158723265084804,Yes
+avg_strikes,T-test,Slurve,Slow Curve,0.058514718661752695,0.9540632268665898,No
+avg_strikes,T-test,Slurve,Eephus,4.726281463924165,0.00016846970056825733,Yes
+avg_strikes,T-test,Slurve,Pitch Out,0.40699849812090577,0.690630822324106,No
+avg_strikes,T-test,Split-Finger,Sweeper,0.7671791196661518,0.44877888525389087,No
+avg_strikes,T-test,Split-Finger,Forkball,-1.4326239203230475,0.1660227545262651,No
+avg_strikes,T-test,Split-Finger,Other,5.176664010586298,2.3611572225906343e-05,Yes
+avg_strikes,T-test,Split-Finger,Slow Curve,1.4495704662524402,0.16437850012136548,No
+avg_strikes,T-test,Split-Finger,Eephus,12.645291389559096,5.3586779176627115e-11,Yes
+avg_strikes,T-test,Split-Finger,Pitch Out,1.9894176010096443,0.065209349192455,No
+avg_strikes,T-test,Sweeper,Forkball,-1.9208859861874084,0.06722696202663117,No
+avg_strikes,T-test,Sweeper,Other,4.739907548432383,6.677734559343473e-05,Yes
+avg_strikes,T-test,Sweeper,Slow Curve,1.1274630164063708,0.27358428163201776,No
+avg_strikes,T-test,Sweeper,Eephus,11.255774536726392,2.3492314326922145e-10,Yes
+avg_strikes,T-test,Sweeper,Pitch Out,1.6199564198918341,0.12478083479904152,No
+avg_strikes,T-test,Forkball,Other,4.340598536592701,0.00044441819202028116,Yes
+avg_strikes,T-test,Forkball,Slow Curve,1.521343660570239,0.15914473431196757,No
+avg_strikes,T-test,Forkball,Eephus,8.769192756763209,1.4513873684063807e-06,Yes
+avg_strikes,T-test,Forkball,Pitch Out,1.6014946870086273,0.15330121861764828,No
+avg_strikes,T-test,Other,Slow Curve,-1.3458910478725614,0.20134062668452526,No
+avg_strikes,T-test,Other,Eephus,2.5021551141647547,0.024401774029927766,Yes
+avg_strikes,T-test,Other,Pitch Out,-0.4796288087338095,0.641808526319334,No
+avg_strikes,T-test,Slow Curve,Eephus,3.302891295379082,0.010812145902384699,Yes
+avg_strikes,T-test,Slow Curve,Pitch Out,0.2335496832484569,0.8303639544434676,No
+avg_strikes,T-test,Eephus,Pitch Out,-inf,0.0,Yes
+avg_balls,T-test,4-Seam Fastball,Changeup,4.229288182953983,0.00017471970176283382,Yes
+avg_balls,T-test,4-Seam Fastball,Curveball,5.793065978392082,1.774629384879481e-06,Yes
+avg_balls,T-test,4-Seam Fastball,Cutter,3.979503726111433,0.0003434033230034626,Yes
+avg_balls,T-test,4-Seam Fastball,Knuckle Curve,3.651566901049371,0.0008938223145089594,Yes
+avg_balls,T-test,4-Seam Fastball,Sinker,2.451230487734945,0.01953209979062814,Yes
+avg_balls,T-test,4-Seam Fastball,Slider,2.0813575303527436,0.045002098218676935,Yes
+avg_balls,T-test,4-Seam Fastball,Slurve,4.6224663936902886,6.750773051642647e-05,Yes
+avg_balls,T-test,4-Seam Fastball,Split-Finger,4.404570192630979,0.00011102737099746566,Yes
+avg_balls,T-test,4-Seam Fastball,Sweeper,3.636017108121364,0.0009330776372503186,Yes
+avg_balls,T-test,4-Seam Fastball,Forkball,1.4242287756843663,0.1672535910281786,No
+avg_balls,T-test,4-Seam Fastball,Other,3.8540594736276614,0.0006502954087819809,Yes
+avg_balls,T-test,4-Seam Fastball,Slow Curve,2.1332728672749264,0.04547761202959728,Yes
+avg_balls,T-test,4-Seam Fastball,Eephus,3.649517417287313,0.001412292654343211,Yes
+avg_balls,T-test,4-Seam Fastball,Pitch Out,1.679820862831398,0.11127437434713591,No
+avg_balls,T-test,Changeup,Curveball,2.024900825041146,0.05128863807763857,No
+avg_balls,T-test,Changeup,Cutter,0.286391455545139,0.7763686696818308,No
+avg_balls,T-test,Changeup,Knuckle Curve,0.38407097528979395,0.7034661835705099,No
+avg_balls,T-test,Changeup,Sinker,-2.619378922816924,0.013206148975768472,Yes
+avg_balls,T-test,Changeup,Slider,-1.1076071183546936,0.27603968043586913,No
+avg_balls,T-test,Changeup,Slurve,1.7541360121662666,0.08997072580813213,No
+avg_balls,T-test,Changeup,Split-Finger,0.6988244007077676,0.48987185255842414,No
+avg_balls,T-test,Changeup,Sweeper,-0.40162616033367016,0.6906289390445095,No
+avg_balls,T-test,Changeup,Forkball,-1.0645429005946507,0.29813173864389175,No
+avg_balls,T-test,Changeup,Other,1.6725647659762533,0.10640573029829495,No
+avg_balls,T-test,Changeup,Slow Curve,0.03515113134915891,0.9723259026458948,No
+avg_balls,T-test,Changeup,Eephus,1.920605912295741,0.06846377234569215,No
+avg_balls,T-test,Changeup,Pitch Out,0.9161861064323517,0.3731723762073952,No
+avg_balls,T-test,Curveball,Cutter,-1.218861100879339,0.23153848040491845,No
+avg_balls,T-test,Curveball,Knuckle Curve,-0.8682673467613993,0.3917133296643728,No
+avg_balls,T-test,Curveball,Sinker,-4.935156037924756,2.2327394695403912e-05,Yes
+avg_balls,T-test,Curveball,Slider,-2.245041366287372,0.031586236346882415,Yes
+avg_balls,T-test,Curveball,Slurve,0.586878988229734,0.5618263824097649,No
+avg_balls,T-test,Curveball,Split-Finger,-0.9706835788567489,0.3392191293687793,No
+avg_balls,T-test,Curveball,Sweeper,-2.155902233729043,0.03871446328954275,Yes
+avg_balls,T-test,Curveball,Forkball,-2.008530611409064,0.056468935709355815,No
+avg_balls,T-test,Curveball,Other,0.8700650679389597,0.3922269997536698,No
+avg_balls,T-test,Curveball,Slow Curve,-1.051605841829329,0.306172082746836,No
+avg_balls,T-test,Curveball,Eephus,1.197085160646535,0.24461255289888542,No
+avg_balls,T-test,Curveball,Pitch Out,0.3746831812273922,0.7128158405346698,No
+avg_balls,T-test,Cutter,Knuckle Curve,0.12743685362011892,0.8993680470847016,No
+avg_balls,T-test,Cutter,Sinker,-2.3545535395672443,0.02445969564879871,Yes
+avg_balls,T-test,Cutter,Slider,-1.2248110563614565,0.22906473525035043,No
+avg_balls,T-test,Cutter,Slurve,1.3331578668361268,0.19251595836468996,No
+avg_balls,T-test,Cutter,Split-Finger,0.3119785196292049,0.7570806260763204,No
+avg_balls,T-test,Cutter,Sweeper,-0.5953348981348321,0.5556806505233577,No
+avg_balls,T-test,Cutter,Forkball,-1.0978599143307817,0.2831585031995783,No
+avg_balls,T-test,Cutter,Other,1.4014468845591421,0.17247130612362596,No
+avg_balls,T-test,Cutter,Slow Curve,-0.11787967868223581,0.907338839101216,No
+avg_balls,T-test,Cutter,Eephus,1.549410408120424,0.13554979743281,No
+avg_balls,T-test,Cutter,Pitch Out,0.5234201715743064,0.6074381720601345,No
+avg_balls,T-test,Knuckle Curve,Sinker,-2.1380296797868685,0.040011262094178046,Yes
+avg_balls,T-test,Knuckle Curve,Slider,-1.2172850986343506,0.23212937260227226,No
+avg_balls,T-test,Knuckle Curve,Slurve,1.069760886069655,0.29355044167407923,No
+avg_balls,T-test,Knuckle Curve,Split-Finger,0.1367403386570126,0.892120249313773,No
+avg_balls,T-test,Knuckle Curve,Sweeper,-0.6458863095547259,0.5229581004969545,No
+avg_balls,T-test,Knuckle Curve,Forkball,-1.053323786645498,0.30313319970161595,No
+avg_balls,T-test,Knuckle Curve,Other,1.1912725202113312,0.24430837852561274,No
+avg_balls,T-test,Knuckle Curve,Slow Curve,-0.16851191268158544,0.867961494352757,No
+avg_balls,T-test,Knuckle Curve,Eephus,1.29585485799071,0.20908812841178645,No
+avg_balls,T-test,Knuckle Curve,Pitch Out,0.3829552671772368,0.7067928654631097,No
+avg_balls,T-test,Sinker,Slider,0.4020829278278292,0.69013960491438,No
+avg_balls,T-test,Sinker,Slurve,3.5054629479985433,0.0014555372860512218,Yes
+avg_balls,T-test,Sinker,Split-Finger,2.994356771129591,0.005270053423246538,Yes
+avg_balls,T-test,Sinker,Sweeper,1.8814536942226319,0.06875665030794202,No
+avg_balls,T-test,Sinker,Forkball,0.13888003170037136,0.8907037373338667,No
+avg_balls,T-test,Sinker,Other,2.903030820565372,0.007277452104275034,Yes
+avg_balls,T-test,Sinker,Slow Curve,1.4127257031889864,0.17310971215292678,No
+avg_balls,T-test,Sinker,Eephus,3.0851232999191502,0.005409913606835708,Yes
+avg_balls,T-test,Sinker,Pitch Out,1.7931383512044556,0.09076069140745241,No
+avg_balls,T-test,Slider,Slurve,2.1284835555156327,0.04162431786091919,Yes
+avg_balls,T-test,Slider,Split-Finger,1.4718185113671025,0.1508371639722349,No
+avg_balls,T-test,Slider,Sweeper,0.7999515751850411,0.429460048579815,No
+avg_balls,T-test,Slider,Forkball,-0.1297107545558877,0.8978762787119493,No
+avg_balls,T-test,Slider,Other,2.0142189300079263,0.05404829481121694,No
+avg_balls,T-test,Slider,Slow Curve,0.5628836385509981,0.5797700448056926,No
+avg_balls,T-test,Slider,Eephus,1.9347796847025984,0.0659785638161174,No
+avg_balls,T-test,Slider,Pitch Out,0.6991400304838566,0.49391992850977207,No
+avg_balls,T-test,Slurve,Split-Finger,-1.1255383299786295,0.26991647473368824,No
+avg_balls,T-test,Slurve,Sweeper,-1.9052285948667176,0.06670933818917084,No
+avg_balls,T-test,Slurve,Forkball,-1.7446391225446167,0.09639668589966494,No
+avg_balls,T-test,Slurve,Other,0.3631109011036268,0.7198379597719786,No
+avg_balls,T-test,Slurve,Slow Curve,-0.8498281390633352,0.40795770329127035,No
+avg_balls,T-test,Slurve,Eephus,0.5717720998559523,0.5745479070008283,No
+avg_balls,T-test,Slurve,Pitch Out,0.007853426502220172,0.9938531756987508,No
+avg_balls,T-test,Split-Finger,Sweeper,-0.9821516414280448,0.33362871309499154,No
+avg_balls,T-test,Split-Finger,Forkball,-1.3202147138968683,0.20033526937665913,No
+avg_balls,T-test,Split-Finger,Other,1.2239438917104213,0.23238355995917917,No
+avg_balls,T-test,Split-Finger,Slow Curve,-0.32937299845132945,0.7456755137358522,No
+avg_balls,T-test,Split-Finger,Eephus,1.4402137403459476,0.16527833761918798,No
+avg_balls,T-test,Split-Finger,Pitch Out,0.5133856783571553,0.6151598499506288,No
+avg_balls,T-test,Sweeper,Forkball,-0.792944877359706,0.4359137777973009,No
+avg_balls,T-test,Sweeper,Other,1.7927682659413275,0.08465343776601077,No
+avg_balls,T-test,Sweeper,Slow Curve,0.2357723415899375,0.816132105903178,No
+avg_balls,T-test,Sweeper,Eephus,1.9610203209842503,0.06327302866756788,No
+avg_balls,T-test,Sweeper,Pitch Out,0.8389703602123341,0.4138455202435024,No
+avg_balls,T-test,Forkball,Other,1.5624082858950274,0.13661448389759648,No
+avg_balls,T-test,Forkball,Slow Curve,0.5293015128269012,0.6081449909561251,No
+avg_balls,T-test,Forkball,Eephus,1.5255165383611087,0.1530451610023172,No
+avg_balls,T-test,Forkball,Pitch Out,0.5994521797533882,0.5677587022727713,No
+avg_balls,T-test,Other,Slow Curve,-0.7929734417083257,0.4420258394555734,No
+avg_balls,T-test,Other,Eephus,0.18628438570852332,0.8547176698417114,No
+avg_balls,T-test,Other,Pitch Out,-0.10967620200520757,0.9148359258276327,No
+avg_balls,T-test,Slow Curve,Eephus,0.9035079029052514,0.3926492601667162,No
+avg_balls,T-test,Slow Curve,Pitch Out,0.4472135954999579,0.6850376424742926,No
+avg_balls,T-test,Eephus,Pitch Out,-0.1889822365046136,0.8575382889841839,No
+avg_batting,T-test,4-Seam Fastball,Changeup,0.3115815824700008,0.7573185572116589,No
+avg_batting,T-test,4-Seam Fastball,Curveball,0.9466339388627666,0.35070596100038476,No
+avg_batting,T-test,4-Seam Fastball,Cutter,0.133656329688335,0.8944623354719288,No
+avg_batting,T-test,4-Seam Fastball,Knuckle Curve,0.6876733291857062,0.49646385536482407,No
+avg_batting,T-test,4-Seam Fastball,Sinker,-0.3096056287031394,0.7587504817974499,No
+avg_batting,T-test,4-Seam Fastball,Slider,1.215466472180563,0.23256099919958736,No
+avg_batting,T-test,4-Seam Fastball,Slurve,2.0772435892211782,0.046438051249255805,Yes
+avg_batting,T-test,4-Seam Fastball,Split-Finger,2.0560023208792275,0.048015978455211855,Yes
+avg_batting,T-test,4-Seam Fastball,Sweeper,0.722695715061237,0.47495787300472037,No
+avg_batting,T-test,4-Seam Fastball,Forkball,2.4095865056362142,0.024000426867164058,Yes
+avg_batting,T-test,4-Seam Fastball,Other,-4.254390060601389,0.00022511002265846532,Yes
+avg_batting,T-test,4-Seam Fastball,Slow Curve,4.239780810744627,0.00040158066716450324,Yes
+avg_batting,T-test,4-Seam Fastball,Eephus,5.214240956388286,3.1408632210463886e-05,Yes
+avg_batting,T-test,4-Seam Fastball,Pitch Out,2.1030878386661707,0.050656095810011535,No
+avg_batting,T-test,Changeup,Curveball,0.6701036342269042,0.5075990402928537,No
+avg_batting,T-test,Changeup,Cutter,-0.05854635580564816,0.9536665361473264,No
+avg_batting,T-test,Changeup,Knuckle Curve,0.40514238397271873,0.6880687137834108,No
+avg_batting,T-test,Changeup,Sinker,-0.5919194239760084,0.5579384182723941,No
+avg_batting,T-test,Changeup,Slider,0.842137732640653,0.4057728759714011,No
+avg_batting,T-test,Changeup,Slurve,1.8424875826233558,0.07564971640120219,No
+avg_batting,T-test,Changeup,Split-Finger,1.7158531302717115,0.09616862422205531,No
+avg_batting,T-test,Changeup,Sweeper,0.46586309432516704,0.6444689768316377,No
+avg_batting,T-test,Changeup,Forkball,2.15447939243912,0.04191343841135437,Yes
+avg_batting,T-test,Changeup,Other,-4.201325745054281,0.00027608282018481165,Yes
+avg_batting,T-test,Changeup,Slow Curve,3.8682195434874327,0.0010352898004121348,Yes
+avg_batting,T-test,Changeup,Eephus,4.759214954546223,0.00010603383000311124,Yes
+avg_batting,T-test,Changeup,Pitch Out,1.9170688248389425,0.0732637187457564,No
+avg_batting,T-test,Curveball,Cutter,-0.5247951175922142,0.6032336613415596,No
+avg_batting,T-test,Curveball,Knuckle Curve,-0.259026569441904,0.7972737849630432,No
+avg_batting,T-test,Curveball,Sinker,-1.156243453843838,0.2558839352898114,No
+avg_batting,T-test,Curveball,Slider,-0.048538428762111716,0.9615797221272226,No
+avg_batting,T-test,Curveball,Slurve,1.2617865629173954,0.2170802757784777,No
+avg_batting,T-test,Curveball,Split-Finger,0.8150917584048196,0.4212380900241982,No
+avg_batting,T-test,Curveball,Sweeper,-0.14983649389696937,0.8818340402427463,No
+avg_batting,T-test,Curveball,Forkball,1.4360720796443207,0.1644445121785466,No
+avg_batting,T-test,Curveball,Other,-4.302839357799918,0.00021146021973241394,Yes
+avg_batting,T-test,Curveball,Slow Curve,2.3489362632080466,0.029797045304183225,Yes
+avg_batting,T-test,Curveball,Eephus,2.889984000509194,0.008761119042789837,Yes
+avg_batting,T-test,Curveball,Pitch Out,1.16412019305141,0.2614409241918731,No
+avg_batting,T-test,Cutter,Knuckle Curve,0.33139321165194285,0.7424428663500853,No
+avg_batting,T-test,Cutter,Sinker,-0.32433722492933886,0.7476697648367756,No
+avg_batting,T-test,Cutter,Slider,0.5655010293303431,0.5754461957159945,No
+avg_batting,T-test,Cutter,Slurve,1.5104493916375517,0.14139103031446573,No
+avg_batting,T-test,Cutter,Split-Finger,1.174777856928755,0.24875169346556786,No
+avg_batting,T-test,Cutter,Sweeper,0.3888031244582521,0.6999191986317215,No
+avg_batting,T-test,Cutter,Forkball,1.5138852720903095,0.14311416554881556,No
+avg_batting,T-test,Cutter,Other,-3.9915604757846066,0.00045255885949655535,Yes
+avg_batting,T-test,Cutter,Slow Curve,1.9254373489083427,0.0685131409470102,No
+avg_batting,T-test,Cutter,Eephus,2.36797483921682,0.02709452064673606,Yes
+avg_batting,T-test,Cutter,Pitch Out,0.9550880230272055,0.35291836796603293,No
+avg_batting,T-test,Knuckle Curve,Sinker,-0.9180330505495145,0.36526296146685944,No
+avg_batting,T-test,Knuckle Curve,Slider,0.27652020551330825,0.7838731234291519,No
+avg_batting,T-test,Knuckle Curve,Slurve,1.4821544329515963,0.14908513397792425,No
+avg_batting,T-test,Knuckle Curve,Split-Finger,1.135752968345201,0.2647646926359942,No
+avg_batting,T-test,Knuckle Curve,Sweeper,0.09271323669563854,0.9267094067386699,No
+avg_batting,T-test,Knuckle Curve,Forkball,1.6837169211157226,0.10576206323864062,No
+avg_batting,T-test,Knuckle Curve,Other,-4.248851051151903,0.00024369891782466402,Yes
+avg_batting,T-test,Knuckle Curve,Slow Curve,2.74223546701403,0.01295108035845915,Yes
+avg_batting,T-test,Knuckle Curve,Eephus,3.373874697849765,0.0028685897700977416,Yes
+avg_batting,T-test,Knuckle Curve,Pitch Out,1.359037165569125,0.19298474263389753,No
+avg_batting,T-test,Sinker,Slider,1.4587683146623363,0.153806087179899,No
+avg_batting,T-test,Sinker,Slurve,2.200442864776639,0.03561395956582622,Yes
+avg_batting,T-test,Sinker,Split-Finger,2.2183114782140545,0.033751594250738835,Yes
+avg_batting,T-test,Sinker,Sweeper,0.9329226872461002,0.357635954688468,No
+avg_batting,T-test,Sinker,Forkball,2.476007908895207,0.020730260840333813,Yes
+avg_batting,T-test,Sinker,Other,-4.150037811989323,0.0002972512539966433,Yes
+avg_batting,T-test,Sinker,Slow Curve,3.952388533768027,0.0007863555651330875,Yes
+avg_batting,T-test,Sinker,Eephus,4.860795189247818,7.384326893168757e-05,Yes
+avg_batting,T-test,Sinker,Pitch Out,1.960530657147649,0.0665314994051833,No
+avg_batting,T-test,Slider,Slurve,1.4894592020886683,0.14680536842191885,No
+avg_batting,T-test,Slider,Split-Finger,1.118541476451797,0.2716625444169586,No
+avg_batting,T-test,Slider,Sweeper,-0.13707218147880018,0.8918066330898491,No
+avg_batting,T-test,Slider,Forkball,1.8497663197975347,0.07669929590685975,No
+avg_batting,T-test,Slider,Other,-4.550154082800706,0.00010200149902121533,Yes
+avg_batting,T-test,Slider,Slow Curve,3.996982713340419,0.0007085040867616478,Yes
+avg_batting,T-test,Slider,Eephus,4.915638778556403,6.463759433167774e-05,Yes
+avg_batting,T-test,Slider,Pitch Out,1.9826510168833031,0.0638057005772536,No
+avg_batting,T-test,Slurve,Split-Finger,-0.7234148590357945,0.4754255516385357,No
+avg_batting,T-test,Slurve,Sweeper,-1.3407009808933494,0.19042596755171137,No
+avg_batting,T-test,Slurve,Forkball,0.16038041632383782,0.8741902391639536,No
+avg_batting,T-test,Slurve,Other,-4.218123028549742,0.00032693323268804863,Yes
+avg_batting,T-test,Slurve,Slow Curve,0.7431818819110588,0.4681444592120003,No
+avg_batting,T-test,Slurve,Eephus,0.9158793323666117,0.37183804588661973,No
+avg_batting,T-test,Slurve,Pitch Out,0.3669166549983938,0.7195844500994972,No
+avg_batting,T-test,Split-Finger,Sweeper,-0.936408318323669,0.35630117885059753,No
+avg_batting,T-test,Split-Finger,Forkball,0.9648079216030917,0.34512756604064254,No
+avg_batting,T-test,Split-Finger,Other,-4.491204198379877,0.00013933055805703432,Yes
+avg_batting,T-test,Split-Finger,Slow Curve,2.196327849871647,0.04141042076372112,Yes
+avg_batting,T-test,Split-Finger,Eephus,2.7034926972013307,0.013673062928510742,Yes
+avg_batting,T-test,Split-Finger,Pitch Out,1.0873443120608266,0.29404867342420754,No
+avg_batting,T-test,Sweeper,Forkball,1.4825148311445084,0.1517766348350382,No
+avg_batting,T-test,Sweeper,Other,-4.219119996007804,0.0002634866172687585,Yes
+avg_batting,T-test,Sweeper,Slow Curve,2.2764667764099467,0.034577626598751875,Yes
+avg_batting,T-test,Sweeper,Eephus,2.8008220846870993,0.01070989694795193,Yes
+avg_batting,T-test,Sweeper,Pitch Out,1.1282047047160548,0.27586735142435936,No
+avg_batting,T-test,Forkball,Other,-3.3862170522582216,0.0035109464766158267,Yes
+avg_batting,T-test,Forkball,Slow Curve,0.6900655593423543,0.5058518285908016,No
+avg_batting,T-test,Forkball,Eephus,0.8571428571428572,0.4081582068554265,No
+avg_batting,T-test,Forkball,Pitch Out,0.3333333333333333,0.7486445487540937,No
+avg_batting,T-test,Other,Slow Curve,2.6976376104378206,0.018276102427578225,Yes
+avg_batting,T-test,Other,Eephus,3.333683455001578,0.004534598053760322,Yes
+avg_batting,T-test,Other,Pitch Out,1.322625655406179,0.2154088086808266,No
+avg_batting,T-test,Slow Curve,Eephus,,,No
+avg_batting,T-test,Slow Curve,Pitch Out,,,No
+avg_batting,T-test,Eephus,Pitch Out,,,No
