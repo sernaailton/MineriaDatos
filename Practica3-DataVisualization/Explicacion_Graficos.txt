@@ -1,0 +1,32 @@
+Histograma de variables numéricas (avg_speed, avg_batting, avg_balls, avg_strikes):
+Muestra la distribución de los valores de cada variable. Sirve para identificar la concentración de datos y posibles valores atípicos.
+
+Boxplot comparativo de variables numéricas:
+Resume la distribución de varias variables mostrando mediana, cuartiles y outliers. Permite comparar rápidamente la dispersión de los datos.
+
+Pie chart de tipos de lanzamiento (pitch_name):
+Muestra la proporción de cada tipo de lanzamiento respecto al total. Ayuda a visualizar qué lanzamientos son más frecuentes.
+
+Scatter plot: velocidad promedio vs promedio de bateo:
+Representa la relación entre la velocidad de lanzamiento y el promedio de bateo. Permite ver si existe alguna correlación.
+
+Line plot: velocidad promedio por tipo de lanzamiento:
+Muestra la tendencia de la velocidad promedio para cada tipo de lanzamiento, facilitando la comparación entre categorías.
+
+Gráfico de barras: conteo de lanzamientos por tipo:
+Muestra la cantidad de lanzamientos de cada tipo. Útil para identificar el lanzamiento más utilizado.
+
+Histogramas por tipo de lanzamiento (stacked):
+Permite comparar la distribución de la velocidad para cada tipo de lanzamiento en un solo gráfico.
+
+Scatter plot coloreado por tipo de lanzamiento:
+Representa la relación entre velocidad y promedio de bateo diferenciando cada tipo de lanzamiento por color.
+
+Heatmap de correlación entre variables numéricas:
+Muestra visualmente la correlación entre las variables numéricas. Ayuda a identificar relaciones fuertes o débiles.
+
+Boxplot por tipo de lanzamiento (avg_batting):
+Compara la distribución del promedio de bateo para cada tipo de lanzamiento, mostrando mediana y posibles outliers.
+
+Gráfico de líneas múltiples: avg_speed y avg_strikes por tipo de lanzamiento:
+Permite observar la tendencia de varias métricas (velocidad y strikes) por tipo de lanzamiento y compararlas en un mismo gráfico.
