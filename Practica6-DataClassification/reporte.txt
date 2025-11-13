@@ -1,0 +1,24 @@
+Informe de Resultados del KNN
+
+Se entrenó un modelo KNN para predecir si un turno al bate terminaría en hit, utilizando variables como velocidad de lanzamiento (release_speed), número de bolas, número de strikes y tipo de lanzamiento.
+
+Mejor k obtenida : 1
+
+Accuracy: 0.7045 (~70% de los turnos correctamente clasificados)
+
+Reporte de clasificación:
+
+- No-hit (0): Precision 0.71, Recall 0.73, F1-score 0.72
+
+- Hit (1): Precision 0.70, Recall 0.68, F1-score 0.69
+
+Interpretación:
+
+El modelo logra identificar ambos casos, aunque con cierta dificultad para diferenciar hits de no-hits en algunos turnos, como muestran los falsos positivos y falsos negativos en la matriz de confusión.
+
+La precisión y recall equilibradas indican que el modelo no está sesgado hacia la clase mayoritaria y que la estrategia de rebalanceo (SMOTE) y agrupamiento por turno ayudó a mejorar la representación de los hits.
+
+La exactitud de ~70% es razonable considerando que solo se usaron unas pocas variables, lo que sugiere que factores adicionales como estrategia del bateador, ubicación del lanzamiento, conteo de outs o situación del juego podrían mejorar la predicción.
+
+Conclusión:
+El KNN es útil como modelo preliminar para predecir la probabilidad de que un turno al bate termine en hit, mostrando un desempeño balanceado entre clases.
