@@ -1,0 +1,44 @@
+1.Construcción del Modelo
+
+Variable dependiente: avg_batting (promedio de bateo del jugador).
+
+Variables independientes:
+- avg_speed – velocidad promedio del lanzamiento.
+- avg_strikes – promedio de strikes por turno.
+- avg_balls – promedio de bolas por turno.
+- avg_strikeouts – promedio de ponches del jugador frente a ese tipo de lanzamiento.
+- pitch_name – tipo de lanzamiento (categorical, codificado mediante one-hot encoding).
+
+2.Resultados del Modelo
+R² (coeficiente de determinación): 0.4446
+Esto indica que el modelo explica aproximadamente un 44% de la variabilidad del promedio de bateo. Aunque no es un ajuste perfecto, el valor es razonable considerando la complejidad del juego y la influencia de factores externos no incluidos en el modelo (como la estrategia del bateador o condiciones del juego).
+
+La ecuación de la regresión se encuentra en el archivo regresion_coeficientes.csv
+
+Interpretación de coeficientes:
+
+Variables numéricas:
+
+- avg_speed, avg_strikes, avg_balls, avg_strikeouts tienen coeficientes negativos, indicando que incrementos en estas métricas se asocian a un leve decremento en el promedio de bateo, según el modelo.
+
+Variables categóricas (pitch_name):
+
+- 4-Seam Fastball tiene coeficiente positivo significativo, lo que indica que, en promedio, este lanzamiento tiende a generar mayor promedio de bateo para el jugador comparado con otros lanzamientos de referencia.
+
+- Eephus y Slow Curve tienen coeficientes negativos marcados, indicando que son lanzamientos más difíciles de batear.
+
+Los demás tipos de lanzamientos presentan efectos menores pero variados según su coeficiente.
+
+3.Visualización
+
+Se generaron gráficos que muestran la relación entre cada variable independiente y el promedio de bateo. Los gráficos se guardaron como archivos .png en la carpeta de trabajo. Esto permite observar visualmente tendencias y patrones, confirmando el efecto de ciertos lanzamientos sobre el rendimiento de bateo.
+
+4.Conclusión
+
+El tipo de lanzamiento es la variable que más impacta el promedio de bateo, con efectos positivos o negativos muy claros según el tipo de pitcheo.
+
+Las variables numéricas (avg_speed, avg_strikes, avg_balls, avg_strikeouts) contribuyen de manera menor al modelo, con coeficientes pequeños y negativos.
+
+El modelo tiene un R² moderado (0.44), lo que indica que explica parte de la variabilidad del bateo, pero factores externos y la variabilidad del juego no capturados en los datos también influyen significativamente.
+
+Este análisis permite, por ejemplo, predecir el desempeño de un jugador frente a distintos tipos de lanzamientos y evaluar cuáles son más fáciles o difíciles de batear según los coeficientes estimados.
