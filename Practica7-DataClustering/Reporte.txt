@@ -1,0 +1,39 @@
+Interpretación general:
+
+Velocidad rápida (≈94-95 mph) → clusters 1, 4, 6, 7, 9, 11, 12 → típicamente fastballs o sinkers.
+
+Velocidad lenta (≈76-86 mph) → clusters 0, 3, 5, 8, 10, 13 → curvas, sliders, cambios.
+
+El conteo de bolas y strikes ayuda a inferir la estrategia del pitcher:
+
+- Conteos bajos: lanzamientos iniciales.
+
+- Conteos altos en bolas: lanzamientos de riesgo.
+
+- Conteos con strikes: lanzamientos más seguros, buscando un out.
+
+Los clusters permiten identificar patrones de lanzamiento, predecir qué tipo de lanzamiento viene en ciertas situaciones y analizar tendencias por velocidad y conteo.
+
+Archivos generados y su interpretación:
+
+elbow_method.png :
+Esta gráfica muestra cómo cambia la “inercia” al variar el número de clusters. Sirve para visualizar el punto en que agregar más clusters deja de mejorar significativamente la agrupación. En nuestro análisis, el método del codo ayudó a tener un primer panorama sobre la cantidad adecuada de grupos.
+
+dodgers2025_clusters.csv :
+Contiene todos los lanzamientos originales con la columna adicional cluster, que indica a qué grupo pertenece cada lanzamiento. Esto permite identificar patrones o comportamientos comunes en los lanzamientos dentro de cada cluster.
+
+release_speed_vs_strikes_clusters.png y release_speed_vs_balls_clusters.png :
+Son visualizaciones de los clusters en función de la velocidad de lanzamiento (release_speed) y el número de strikes o bolas (strikes y balls). Permiten observar cómo se agrupan los lanzamientos según estas variables, mostrando tendencias como lanzamientos rápidos o lentos, o lanzamientos con muchos o pocos strikes.
+
+cluster_summary.csv :
+Presenta un resumen cuantitativo de cada cluster, incluyendo:
+
+- Número de lanzamientos (count) dentro del cluster.
+
+- Promedio de velocidad de lanzamiento (mean_release_speed).
+
+- Promedio de bolas (mean_balls).
+
+- Promedio de strikes (mean_strikes).
+
+Esto permite identificar características típicas de cada grupo de lanzamientos y compararlas entre clusters.
