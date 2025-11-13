@@ -1,0 +1,26 @@
+Se realizó un análisis de texto sobre los datos de lanzamientos de los Dodgers de 2025. 
+Se seleccionaron las siguientes columnas de texto:
+
+- player_name: nombre del pitcher
+- batter: nombre del bateador (reemplazando el ID por su nombre correspondiente)
+- pitch_name: tipo de lanzamiento
+- description: descripción de la jugada
+- events: resultado del turno al bate (se ignoraron los valores vacíos)
+
+El objetivo fue identificar las palabras más frecuentes en el dataset y visualizarlas mediante una nube de palabras (word cloud), donde las palabras que aparecen con mayor frecuencia se muestran más grandes y resaltadas. Esto permite observar patrones de comportamiento de los jugadores, tipos de lanzamientos más comunes y eventos más repetidos durante la temporada.
+
+Resultados principales:
+
+- Se generó un archivo de imagen con la nube de palabras, mostrando visualmente los términos más recurrentes.
+- Palabras como nombres de pitchers, bateadores, tipos de lanzamientos y eventos destacados aparecen con mayor tamaño, indicando su frecuencia en los datos.
+- Esta representación permite obtener una visión rápida y clara de los aspectos más comunes del juego, facilitando un análisis exploratorio previo a cualquier modelado o clasificación.
+
+Interpretación:
+
+- La nube de palabras resalta la relevancia de ciertos jugadores y lanzamientos en la temporada.
+- Los eventos más frecuentes (por ejemplo, hits, strikeouts, walks) son fácilmente identificables.
+- Este tipo de visualización ayuda a resumir grandes volúmenes de información textual y detectar patrones de forma intuitiva.
+
+Conclusión:
+
+El análisis textual mediante word cloud proporciona una herramienta visual poderosa para comprender la dinámica de los partidos y las tendencias de los jugadores, destacando los elementos más significativos de la temporada 2025 de los Dodgers.
