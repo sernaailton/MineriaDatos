@@ -1,0 +1,17 @@
+Informe de resultados - Práctica 8: Forecasting
+
+Se desarrolló un modelo de regresión lineal (para una serie temporal) para predecir la cantidad de hits totales por partido de los Dodgers durante el mes de septiembre. Se utilizaron estadísticas por partido, calculadas a partir de los turnos al bate finalizados, considerando los hits, bolas, strikes, promedio de velocidad de lanzamientos y número total de lanzamientos.
+
+Se entrenó el modelo con los primeros 22 partidos de septiembre y se realizaron predicciones para los últimos 3 partidos del mes. Los resultados de la comparación entre los valores reales y predichos son los siguientes:
+
+- 26/09/25: Predicción = 6.45 hits, Real = 6 hits.
+- 27/09/25: Predicción = 7.71 hits, Real = 7 hits.
+- 28/09/25: Predicción = 8.08 hits, Real = 8 hits.
+
+Interpretación:
+
+- Las predicciones se acercaron bastante a los valores reales, con una ligera tendencia a sobreestimar.
+- El coeficiente de determinación R² = 0.6451 indica que el modelo explica aproximadamente el 64.5% de la variabilidad de los hits por partido.
+- El error cuadrático medio (MSE = 0.2366) refleja que las predicciones presentan un error pequeño y están razonablemente ajustadas a los datos reales.
+
+En resumen, el modelo mostró un desempeño adecuado para predecir la cantidad de hits por partido, permitiendo visualizar tendencias y aproximaciones confiables de los resultados del equipo en los últimos partidos del mes.
