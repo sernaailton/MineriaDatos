@@ -1,0 +1,76 @@
+ESTRATEGIA DE APUESTAS MLB POR JUGADOR Y TIPO DE PITCHER
+
+1. RECOMENDACIONES GENERALES
+- Apostar Over en Walk (BB) para todos los jugadores.
+- Hit y RBI dependen del tipo de pitcher:
+  * Vs L (zurdo) → tendencia mayor a Over en Hit y RBI
+  * Vs R (diestro) → tendencia a Under en Hit, Over en RBI según jugador
+
+2. ESTRATEGIA DETALLADA POR JUGADOR
+
+Andy Pages
+  - Vs L: Hit Under, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Under
+
+Enrique Hernandez
+  - Vs L: Hit Over, Walk Over, RBI Under
+  - Vs R: Hit Over, Walk Over, RBI Over
+
+Max Muncy
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Michael Conforto
+  - Vs L: Hit Under, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Under, RBI Under
+
+Miguel Rojas
+  - Vs L: Hit Under, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Shohei Ohtani
+  - Vs L: Hit Under, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Teoscar Hernandez
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Tommy Edman
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Over, Walk Over, RBI Over
+
+Will Smith
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Freddie Freeman
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Over, Walk Over, RBI Over
+
+Mookie Betts
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Hyeseong Kim
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Dalton Rushing
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Alex Freeland
+  - Vs R: Hit Over, Walk Over, RBI Over
+
+Alex Call
+  - Vs L: Hit Over, Walk Over, RBI Over
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+Ben Rortvedt
+  - Vs R: Hit Under, Walk Over, RBI Over
+
+3. RECOMENDACIÓN DE USO
+- Antes de apostar, revisar que el pitcher del partido coincida con el tipo (L o R).
+- Priorizar apuestas Over en Walk y RBI, Under en Hit contra pitchers derechos cuando se indica.
+- Ajustar montos según confianza en profit histórico.
